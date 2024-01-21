@@ -21,7 +21,7 @@
 
 ## comand for creating virtual environments
 ```
-conda craete -p env python=3.8 -y
+conda create -p env python=3.8 -y
 ```
 
 ## comand for installing libraries
