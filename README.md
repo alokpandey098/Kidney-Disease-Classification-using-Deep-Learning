@@ -28,3 +28,11 @@ conda create -p env python=3.8 -y
 ```
 pip install -r requirements.txt
 ```
+
+## mlflow
+```
+export MLFLOW_TRACKING_URI=https://dagshub.com/alokpandey098/Kidney-Disease-Classification-using-Deep-Learning.mlflow
+export MLFLOW_TRACKING_USERNAME=alokpandey098 
+
+export MLFLOW_TRACKING_PASSWORD=593a207f7b9fd896b4aaa8db19cb3596cd6eb959
+```
