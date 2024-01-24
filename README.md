@@ -19,11 +19,6 @@
 # How to run?
 ### STEPS:
 
-Clone the repository
-
-```bash
-https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
-```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
@@ -66,6 +61,8 @@ open up you local host and port
 
 ### dagshub
 [dagshub](https://dagshub.com/)
+
+
 
 MLFLOW_TRACKING_URI=https://dagshub.com/alokpandey098/Kidney-Disease-Classification-using-Deep-Learning.mlflow \
 MLFLOW_TRACKING_USERNAME=alokpandey098 \
