@@ -1,4 +1,4 @@
-## ## Kidney-Disease-Classification-using-MLflow-DVC
+## Kidney-Disease-Classification-using-MLflow-DVC
 
 ![Alt text](image.png)
 
